@@ -1,47 +1,52 @@
-<h2 align="left">Olá, me chamo Rayane</h2>
+# Rayane Barbosa Lima
+⌨️Amante de códigos, tecnologia, inovações e produtividade.
 
-###
+## Educação Acadêmica
 
-<p align="left">Sou estudante de Análise e desenvolvimento de sistemas 4/5<br>Sou da área de back-end<br>Sirvo na mídia da igreja</p>
+### Graduação
+📌Análise e Desenvolvimento de sistemas | 5º período | tecnólogo 
 
-###
+### Cursos complementares
+📚Programador Back-end | 180 horas | Firjan Senai
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
+📚Programador Fullstack | 770 horas | Serratec e Firjan Senai
 
-###
+## Conecte-se Comigo !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=instagram&logoColor=white&color=%239E8D7A)](https://www.linkedin.com/in/rayane-barbosa-lima-43806616a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white&color=%239E8D7A)](https://github.com/rayanebarbosapet)
+[![Instagram](https://img.shields.io/badge/-Instagram-%2523E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=%239E8D7A)](https://www.instagram.com//)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=%239E8D7A)](discord.com/channels/ray_barbosa)
+## Principais projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayanebarbosapet&repo=DesafioTecnico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rayanebarbosapet/DesafioTecnico)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayanebarbosapet&repo=sistema_rh&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rayanebarbosapet/sistema_rh)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayanebarbosapet&repo=escola&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rayanebarbosapet/escola)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rayanebarbosapet&repo=LoginPage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rayanebarbosapet/LoginPage)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanebarbosapet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanebarbosapet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Tecnologias
+### Linguagens de marcação
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%239E8D7A)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=%239E8D7A)
+##  Linguagens de programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=%239E8D7A)
+![Java](https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=%239E8D7A)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=%239E8D7A)
+### Bibliotecas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=%239E8D7A)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white&color=%239E8D7A)
+![Spring](https://img.shields.io/badge/spring-%25236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&color=%239E8D7A)
+### Banco de dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&color=%239E8D7A)
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=%239E8D7A)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white&color=%239E8D7A)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=%239E8D7A)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=%239E8D7A)
 
-###
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayanebarbosapet&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayanebarbosapet&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<div align="left">
-  <a href="https://www.instagram.com/eu_rayane_bl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ray_barbosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="rayanebarbosapet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rayane-barbosa-lima-43806616a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+
+
+
